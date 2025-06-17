@@ -1,1 +1,2 @@
 tsyndicate.com
+cdn.tsyndicate.com
