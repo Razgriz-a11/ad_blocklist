@@ -1,2 +1,6 @@
 tsyndicate.com
 cdn.tsyndicate.com
+go.reebr.com
+go.mnaspm.com
+https://cdn.tsyndicate.com/sdk/v1/p.js
+cdn.tsyndicate.com/sdk/v1/p.js
