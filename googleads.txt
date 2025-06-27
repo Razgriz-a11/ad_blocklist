@@ -1,80 +1,80 @@
-0.0.0.0 2975c.v.fwmrm.net
-0.0.0.0 2mdn.net
-0.0.0.0 acquisition-tracker.wix.com
-0.0.0.0 ad-emea.doubleclick.net
-0.0.0.0 ad-g.doubleclick.net
-0.0.0.0 ad.ae.doubleclick.net
-0.0.0.0 ad.au.doubleclick.net
-0.0.0.0 ad.be.doubleclick.net
-0.0.0.0 ad.br.doubleclick.net
-0.0.0.0 ad.de.doubleclick.net
-0.0.0.0 ad.dk.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ad.es.doubleclick.net
-0.0.0.0 ad.fi.doubleclick.net
-0.0.0.0 ad.fr.doubleclick.net
-0.0.0.0 ad.it.doubleclick.net
-0.0.0.0 ad.jp.doubleclick.net
-0.0.0.0 ad.mo.doubleclick.net
-0.0.0.0 ad.n2434.doubleclick.net
-0.0.0.0 ad.nl.doubleclick.net
-0.0.0.0 ad.no.doubleclick.net
-0.0.0.0 ad.nz.doubleclick.net
-0.0.0.0 ad.pl.doubleclick.net
-0.0.0.0 ad.se.doubleclick.net
-0.0.0.0 ad.sg.doubleclick.net
-0.0.0.0 ad.tw.doubleclick.net
-0.0.0.0 ad.uk.doubleclick.net
-0.0.0.0 ad.ve.doubleclick.net
-0.0.0.0 ad.youtube.com
-0.0.0.0 ad.za.doubleclick.net
-0.0.0.0 ad2.doubleclick.net
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 ads.doubleclick.net
-0.0.0.0 ads.imeem.com
-0.0.0.0 ads.youtube.com
-0.0.0.0 adservice.google
-0.0.0.0 akamaitechnologies.com
-0.0.0.0 analytic-google.com
-0.0.0.0 auto.search.msn.com
-0.0.0.0 c.googlesyndication.com
-0.0.0.0 cdn.fastclick.net
-0.0.0.0 clients1.google.com
-0.0.0.0 creative.cc-dt.com
-0.0.0.0 doubleclick.de
-0.0.0.0 doubleclick.net
-0.0.0.0 dts.innovid.com
-0.0.0.0 feedads.g.doubleclick.net
-0.0.0.0 files.adform.net
-0.0.0.0 fls.doubleclick.net
-0.0.0.0 fwmrm.net
-0.0.0.0 g.doubleclick.net
-0.0.0.0 googleadapis.l.google.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleads2.g.doubleclick.net
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 googleadservices.com
-0.0.0.0 googletagmanager.com
-0.0.0.0 i1.ytimg.com
-0.0.0.0 innovid.com
-0.0.0.0 iv.doubleclick.net
-0.0.0.0 l.doubleclick.net
-0.0.0.0 m.2mdn.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 m1.2mdn.net
-0.0.0.0 media.fastclick.net
-0.0.0.0 n4403ad.doubleclick.net
-0.0.0.0 n479ad.doubleclick.net
-0.0.0.0 ocsp.comodoca.com
-0.0.0.0 pagead.googlesyndication.com
-0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 pagead1.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pagead46.googlesyndication.com
-0.0.0.0 pixel.adsafeprotected.com
-0.0.0.0 pixel.moatads.com
-0.0.0.0 pubads.g.doubleclick.net
+2975c.v.fwmrm.net
+2mdn.net
+acquisition-tracker.wix.com
+ad-emea.doubleclick.net
+ad-g.doubleclick.net
+ad.ae.doubleclick.net
+ad.au.doubleclick.net
+ad.be.doubleclick.net
+ad.br.doubleclick.net
+ad.de.doubleclick.net
+ad.dk.doubleclick.net
+ad.doubleclick.net
+ad.es.doubleclick.net
+ad.fi.doubleclick.net
+ad.fr.doubleclick.net
+ad.it.doubleclick.net
+ad.jp.doubleclick.net
+ad.mo.doubleclick.net
+ad.n2434.doubleclick.net
+ad.nl.doubleclick.net
+ad.no.doubleclick.net
+ad.nz.doubleclick.net
+ad.pl.doubleclick.net
+ad.se.doubleclick.net
+ad.sg.doubleclick.net
+ad.tw.doubleclick.net
+ad.uk.doubleclick.net
+ad.ve.doubleclick.net
+ad.youtube.com
+ad.za.doubleclick.net
+ad2.doubleclick.net
+adclick.g.doubleclick.net
+ade.googlesyndication.com
+ads.doubleclick.net
+ads.imeem.com
+ads.youtube.com
+adservice.google
+akamaitechnologies.com
+analytic-google.com
+auto.search.msn.com
+c.googlesyndication.com
+cdn.fastclick.net
+clients1.google.com
+creative.cc-dt.com
+doubleclick.de
+doubleclick.net
+dts.innovid.com
+feedads.g.doubleclick.net
+files.adform.net
+fls.doubleclick.net
+fwmrm.net
+g.doubleclick.net
+googleadapis.l.google.com
+googleads.g.doubleclick.net
+googleads2.g.doubleclick.net
+googleads4.g.doubleclick.net
+googleadservices.com
+googletagmanager.com
+i1.ytimg.com
+innovid.com
+iv.doubleclick.net
+l.doubleclick.net
+m.2mdn.net
+m.doubleclick.net
+m1.2mdn.net
+media.fastclick.net
+n4403ad.doubleclick.net
+n479ad.doubleclick.net
+ocsp.comodoca.com
+pagead.googlesyndication.com
+pagead.l.doubleclick.net
+pagead1.googlesyndication.com
+pagead2.googlesyndication.com
+pagead46.googlesyndication.com
+pixel.adsafeprotected.com
+pixel.moatads.com
+pubads.g.doubleclick.net
 r1---sn-cvh7knez.googlevideo.com
 r2---sn-cvh7knez.googlevideo.com
 r3---sn-cvh7knez.googlevideo.com
